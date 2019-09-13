@@ -1,0 +1,254 @@
+.a
+{
+	height: 768px;
+	width: 1366px;
+	background-image: url(banner_bg.jpg); 
+}
+
+.b
+{
+	height: 768px;
+	width: 1366px;
+	background-color: rgb(0,0,0,0.5);
+	margin-top: -10px;
+}
+
+.c
+{
+	height: 100px;
+	width: 1200px;
+	background-color: white;
+	margin-left: 80px;
+}
+
+.d
+{
+	height: 100px;
+	width: 95%
+	font-family: arial;
+	font-size: 20px;
+	color: black;
+}
+
+.d:hover
+{
+	font-family: arial black;
+	font-size: 30px;
+	color: red;
+}
+
+.e
+{
+	height: 400px;
+	width: 500px;
+	color: white;
+	margin-top: 10%;
+	margin-left: 35%;
+}
+
+.f
+{
+	
+	width: 1366px;
+}
+
+.g
+
+{
+	height: 500px;
+	width: 1366px;
+	margin-left: 5%;
+}
+
+.h
+{
+	font-family: arial;
+}
+
+.i
+{
+	color: blue;
+	font-family: arial black;
+}
+.j
+{
+	height: 768px;
+	width: 1366px;
+	background-image: url(facilites_bg.jpg);
+
+}
+
+.l
+{
+	height: 768px;
+	width: 1366px;
+	background-color: rgb(0,0,0,0.5);
+}
+.k
+{
+	font-size: 40px;
+	font-family: arial black;
+	margin-left: 35%;
+	color: white;
+}
+
+.m
+{
+	font-size: 22px;
+	color: orange;
+	margin-left: 30%;
+}
+
+.n
+{
+	height: 200px;
+	width: 250px;
+	float: left;
+	margin-left: 5%;
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 20px;
+
+}
+
+.o
+{
+	height: 200px;
+	width: 250px;
+	float: left;
+	margin-left: 10%;
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 20px;
+}
+.p
+{
+	height: 200px;
+	width: 250px;
+	float: left;
+	margin-left: 15%;
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 20px;
+}
+.q
+{
+	height: 200px;
+	width: 250px;
+	float: left;
+	margin-left: 5%;
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.r
+{
+	height: 200px;
+	width: 250px;
+	float: left;
+	margin-left: 10%;
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.s
+{
+	height: 200px;
+	width: 250px;
+	float: left;
+	margin-left: 15%;
+	background-color: black;
+	opacity: 0.7;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+
+.t
+{
+	font-family: arial black;
+	font-size: 25px;
+	margin-left: 50px;
+	color: white;
+}
+
+.u
+{
+	font-size: 15px;
+	font-family: arial;
+	margin-left: 8px;
+	color: white;
+}
+.v
+{
+	font-family: arial black;
+	font-size: 25px;
+	margin-left: 90px;
+	color: white;
+}
+
+.w
+{
+	height: 500px;
+	width: 650px;
+	float: left;
+}
+
+.x
+{
+	font-size: 45px;
+	font-family: arial black;
+	margin-left: 52px;
+}
+
+.y
+{
+	font-size: 17px;
+	font-family: arial;
+	margin-left: 52px;
+}
+
+.z
+{
+	height: 500px;
+	width: 650px;
+	margin-top: 35px;
+	margin-right: -45px;
+	background-image: url(about_bg.jpg);
+	float: right;
+	background-repeat: no-repeat;
+}
+
+.ab
+{
+	height: 700px;
+	width: 1366px;
+	margin-top: 30px;
+	background-color: lightpink;
+	
+}
+.cd
+{
+	margin-top: 44%;
+	font-family: arial black;
+	font-size: 25px;
+	margin-left: 35%;
+}
+
+.ef
+{
+	font-size: 17px;
+	font-family: arial;
+	margin-left: 352px;
+}
+
+.gh
+{
+	height: 150px;
+	width: 500px;
+	float: left;
+	margin-left: 8%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
